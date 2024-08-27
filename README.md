@@ -1,0 +1,5 @@
+PAFT - passenger and freight transport (en)
+PAFT – Personen- und Güterverkehr (de)
+PAFT-- 客運與貨運 PAFT-- kèyùn yǔ huòyùn (zh)
+ПАФТ - пассажирские и грузовые перевозки (ru)
+PAFT - przewozy pasażerskie i towarowe (pl)
